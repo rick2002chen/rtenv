@@ -1,0 +1,2 @@
+test-cmdtok.in:3: Error in sourced command file:
+evaluation of this expression requires the program to have a function "malloc".
